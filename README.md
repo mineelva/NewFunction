@@ -1,4 +1,4 @@
 NewFunction
 ===========
 
-som demo for jquery in my daily work
+some demo for jquery in my daily work
